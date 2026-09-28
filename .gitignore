@@ -1,0 +1,6 @@
+dir1/*
+!dir1/info.txt
+dir2/*.txt
+dir3/**/*.txt
+*.o
+
